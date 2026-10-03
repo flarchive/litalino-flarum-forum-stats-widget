@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of litalino/flarum-forum-stats-widget.** Not for installation: use [Packagist](https://packagist.org/packages/litalino/flarum-forum-stats-widget) or the [upstream repository](https://github.com/Litalino/flarum-forum-stats-widget).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/litalino-flarum-forum-stats-widget/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/litalino-flarum-forum-stats-widget/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2023-12-11 | `^1.0.0` | [Browse](https://github.com/flarchive/litalino-flarum-forum-stats-widget/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/litalino-flarum-forum-stats-widget.json](https://github.com/flarchive/archive-index/blob/main/packages/litalino-flarum-forum-stats-widget.json)
 
